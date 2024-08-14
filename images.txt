@@ -1,14 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-
 #音乐
 xhongc/music_tag_web:latest
 #电影
 jxxghp/moviepilot
 #照片
-ghcr.io/immich-app/immich-machine-learning:latest
-ghcr.io/immich-app/immich-server:latest
+ghcr.io/immich-app/immich-machine-learning:v1.111.0-release
+ghcr.io/immich-app/immich-server:v1.111.0-release
