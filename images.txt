@@ -3,5 +3,5 @@ xhongc/music_tag_web:latest
 #电影
 jxxghp/moviepilot
 #照片
-ghcr.io/immich-app/immich-machine-learning:v1.111.0-release
-ghcr.io/immich-app/immich-server:v1.111.0-release
+ghcr.io/immich-app/immich-machine-learning:release
+ghcr.io/immich-app/immich-server:release
