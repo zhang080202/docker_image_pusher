@@ -5,3 +5,5 @@ jxxghp/moviepilot
 #照片
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
+#网盘
+xiaoyaliu/alist:latest
