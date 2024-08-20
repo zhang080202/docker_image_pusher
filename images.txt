@@ -6,5 +6,4 @@ jxxghp/moviepilot
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
 #网盘1
-xiaoyaliu/alist:latest
-seafileltd/seafile-mc
+xhofe/alist:latest
