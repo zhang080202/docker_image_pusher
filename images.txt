@@ -7,3 +7,4 @@ ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
 #网盘1
 xhofe/alist:latest
+xiaoyaliu/alist:latest
