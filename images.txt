@@ -9,3 +9,6 @@ ghcr.io/immich-app/immich-server:release
 #网盘1
 xhofe/alist:latest
 xiaoyaliu/alist:latest
+
+arm64v8/redis:6.2.5-alpine
+centos:7
