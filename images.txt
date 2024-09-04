@@ -3,6 +3,7 @@ xhongc/music_tag_web:latest
 spotdl/spotify-downloader
 #电影
 jxxghp/moviepilot
+lovechen/embyserver:latest
 #照片
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
