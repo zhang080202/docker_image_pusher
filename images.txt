@@ -18,4 +18,4 @@ xiaoyaliu/alist:latest
 --platform=linux/arm64 mysql:8.4.2
 
 #剪切板同步
-jericx/syncclipboard-server
+jericx/syncclipboard-server:latest
