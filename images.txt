@@ -5,6 +5,7 @@ spotdl/spotify-downloader
 jxxghp/moviepilot
 lovechen/embyserver:latest
 levonet/nginx:latest 
+amilys/embyserver
 #照片
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
