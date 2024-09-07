@@ -10,7 +10,6 @@ ghcr.io/immich-app/immich-server:release
 #网盘1
 xhofe/alist:latest
 xiaoyaliu/alist:latest
-vaultwarden/server:latest
 
 --platform=linux/arm64 arm64v8/redis:6
 --platform=linux/arm64 nginx:1.18.0
