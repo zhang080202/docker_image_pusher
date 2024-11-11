@@ -7,8 +7,6 @@ amilys/embyserver
 #照片
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
-#网盘1
-syncthing/syncthing:latest
 
 --platform=linux/arm64 arm64v8/redis:6
 --platform=linux/arm64 nginx:1.18.0
