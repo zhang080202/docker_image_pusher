@@ -1,5 +1,6 @@
 #音乐
 xhongc/music_tag_web:latest
+xhongc/music_tag_web:2.2.7
 spotdl/spotify-downloader
 #电影
 jxxghp/moviepilot
