@@ -7,5 +7,5 @@ amilys/embyserver
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
 
-
+openjdk:8
 
