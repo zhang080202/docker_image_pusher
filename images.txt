@@ -9,4 +9,4 @@ ghcr.io/immich-app/immich-server:release
 
 openjdk:8
 nginx
-
+gitea/gitea:1.21.1
