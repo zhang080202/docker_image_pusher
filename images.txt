@@ -11,6 +11,7 @@ openjdk:8
 nginx
 gitea/gitea:1.21.1
 
-gitlab/gitlab-runner:latest
-gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:17.7
+gitlab/gitlab-ce:17.7
+node:latest
 
