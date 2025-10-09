@@ -4,12 +4,5 @@ xhongc/music_tag_web:latest
 jxxghp/moviepilot
 amilys/embyserver
 #照片
-ghcr.io/immich-app/immich-machine-learning:release
-ghcr.io/immich-app/immich-server:release
-
-openjdk:8
-nginx
-gitea/gitea:1.21.1
-
-node:latest
-minio/minio:RELEASE.2021-06-17T00-10-46Z
+ghcr.io/immich-app/immich-machine-learning:v2.0.1
+ghcr.io/immich-app/immich-server:v2.0.1
