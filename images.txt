@@ -4,7 +4,7 @@ xhongc/music_tag_web:latest
 jxxghp/moviepilot
 amilys/embyserver
 #照片
-ghcr.io/immich-app/immich-machine-learning:v2.0.1
-ghcr.io/immich-app/immich-server:v2.0.1
+ghcr.io/immich-app/immich-machine-learning:v2.3.1
+ghcr.io/immich-app/immich-server:v2.3.1
 
---platform=linux/arm64 adminer
+# --platform=linux/arm64 adminer
